@@ -6,5 +6,4 @@ workflow running `./mill showNamed tmp.nativeLink | jq -r '."tmp.nativeLink"'` c
 jq parse error in github actions, but not on the laptop.
 
 Compare the `demo-jar-command` against `demo-nativeLink-command` job in
-[this](https://github.com/btrachey/mill-repro/actions/runs/12990959679/job/36227355879) github
-actions run.
+[this](https://github.com/btrachey/mill-repro/actions/runs/12991007492) github actions run.
